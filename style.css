@@ -1,12 +1,12 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Kanit&family=Lato&family=Playfair+Display&family=Roboto+Condensed:ital,wght@1,300&display=swap');
+
 html {
     box-sizing: border-box;
 }
 
 body {
     margin: 0;
-    background-color: rgb(130, 172, 231);
+    background-color: rgb(38, 101, 190);
     display: flex;
     justify-content: center;
     font-family: Kanit,sans-serif;
